@@ -1,0 +1,12 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    narray (0.6.1.1)
+    rb-gsl (1.16.0.4)
+      narray (>= 0.5.9)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  rb-gsl
